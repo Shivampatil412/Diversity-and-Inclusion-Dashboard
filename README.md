@@ -37,7 +37,7 @@ Provided clear and actionable insights on diversity and inclusion.
 Enabled HR teams to identify gaps in gender representation across job levels.
 Supported data-driven strategic discussions on how to improve workforce diversity.
 
-📂 Repository Structure
+📂 Repository Structure:
 ├── Diversity and Inclusion Dashboard.pbix   # Power BI dashboard file  
 ├── data/                                    # (Optional) Raw or sample dataset (if sharable)  
 └── README.md                                # Project documentation  
